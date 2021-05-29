@@ -1,6 +1,7 @@
 ## Kids With the Greatest Number of Candies
 
-Leetcode [problem 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/).
+Leetcode [problem 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/); **Difficulty:** `Easy`
+
 
 
 ## Problem Statement
