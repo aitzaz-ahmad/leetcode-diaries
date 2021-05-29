@@ -43,7 +43,9 @@ Kid 5 has 3 candies and if he or she receives at least 2 extra candies will have
 
 **Explanation:** 
 
-```There is only 1 extra candy, therefore only kid 1 will have the greatest number of candies among the kids regardless of who takes the extra candy.```
+```
+There is only 1 extra candy, therefore only kid 1 will have the greatest number of candies among the kids regardless of who takes the extra candy.
+```
 
 ### Example 3:
 
