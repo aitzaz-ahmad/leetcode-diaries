@@ -1,6 +1,6 @@
 # String Matching in an Array
 
-Leetcode [problem 1408](https://leetcode.com/problems/running-sum-of-1d-array/); **Difficulty:** `Easy`
+Leetcode [problem 1408](https://leetcode.com/problems/string-matching-in-an-array/); **Difficulty:** `Easy`
 
 ## Problem Statement
 
