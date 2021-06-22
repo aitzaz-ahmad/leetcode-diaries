@@ -1,6 +1,9 @@
 string reformat(string s) {
 
-        if(s.size() < 2)
+        if(s.size() < 1 || s.size() > 500)
+            throw std::length_error("s.length must be within the range [1, 500]");
+        
+        if(s.size() == 1)
             return s;
 
         auto digits = 0;
