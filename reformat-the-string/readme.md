@@ -12,8 +12,8 @@ Return _the reformatted string_ or return **an empty string** if it is impossibl
 
 ## Constraints:
 
-- `1 <= arr.length <= 10000`
-- `1 <= arr[i] <= 100000`
+- `1 <= s.length <= 500`
+- `s` consists of only lowercase English letters and/or digits.
 
 ## Example 1:
 
