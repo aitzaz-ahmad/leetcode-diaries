@@ -8,11 +8,8 @@ Given a string `s`, return _the first non-repeating character in it and return i
 
 ## Constraints:
 
-- `1 <= s.length <= 10
-
-  <sup>5</sup>`
-
-- `s` consists of only lowercase English letters.
+- <code> 1 <= s.length <= 10<sup>5</sup> </code>
+- `s`  consists of only lowercase English letters.
 
 ## Example 1:
 

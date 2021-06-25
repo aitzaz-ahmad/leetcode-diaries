@@ -14,17 +14,8 @@ The rank represents how large the element is. The rank has the following rules:
 
 ## Constraints:
 
-- `0 <= arr.length <= 10
-
-  <sup>5</sup>`
-
-- `-10
-
-  <sup>9</sup>
-
-   <= arr[i] <= 10
-
-  <sup>9</sup>`
+- <code> 0 <= arr.length <= 10<sup>5</sup> </code>
+- <code> -10<sup>9</sup> <= arr[i] <= 10<sup>9</sup> </code>
 
 ## Example 1:
 
