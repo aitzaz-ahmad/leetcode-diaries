@@ -20,7 +20,6 @@ If no such second minimum value exists, output -1 instead.
 
 ![image](https://user-images.githubusercontent.com/33619581/123705420-36598680-d867-11eb-91c4-9579553c3524.png)
 
-
 **Input:** `root = [2,2,5,null,null,5,7]`
 
 **Output:** `5`
@@ -33,7 +32,6 @@ The smallest value is 2, the second smallest value is 5.
 ## Example 2:
 
 ![image](https://user-images.githubusercontent.com/33619581/123705354-22158980-d867-11eb-94bb-a8a16c9aee0c.png)
-
 
 **Input:** `root = [2,2,2]`
 
